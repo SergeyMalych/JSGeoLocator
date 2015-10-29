@@ -1,7 +1,7 @@
 # JSGeoLocator
 
 ## what is this?
-In one of my job interviews, I was asked to write some code, whether webish, scriptish or applicable. JSGeoLocator gathers information from several places locally in the computer, using the browser, and guesses the location of the specific machine based on aggregated data.
+JSGeoLocator guesses the location of the specific machine based on aggregated data.
 
 ## what does it does?
 It looks in places like:
