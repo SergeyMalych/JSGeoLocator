@@ -5,13 +5,13 @@ In one of my job interviews, I was asked to write some code, whether webish, scr
 
 ## what does it does?
 It looks in places like:
-* machine time-zone
+* machine time-zone [TODO]
 * machine language
 * HTML5 geolocation
 * IP Geo-location
-* Flash geolocation - http://help.adobe.com/en_US/as3/dev/WS144092a96ffef7cc-66bf4d0212658dde8c4-7fff.html
-* JAVA geolocation
-* Google maps cahced account geolocation
+* Flash geolocation [TODO] - http://help.adobe.com/en_US/as3/dev/WS144092a96ffef7cc-66bf4d0212658dde8c4-7fff.html
+* JAVA geolocation [TODO]
+* Google maps cahced account geolocation [TODO]
 
 ## link for demo:
 http://htmlpreview.github.io/?https://github.com/SergeyMalych/JSGeoLocator/blob/master/index.html
